@@ -1,0 +1,23 @@
+# Core
+torch>=2.0
+torchvision>=0.15
+torchaudio>=2.0
+numpy
+pandas
+
+# Model backbones / pretrained weights
+timm>=0.9
+transformers>=4.30
+
+# Video/audio decoding
+decord
+Pillow
+
+# Metrics, stats, plotting
+scikit-learn
+scipy
+statsmodels
+matplotlib
+
+# Misc
+psutil

@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software or the released model checkpoints, please cite the accompanying paper."
+title: "Ultimate-Deepfake-model: Offline Multi-Teacher Knowledge Distillation for Multimodal Deepfake Detection"
+authors:
+  - family-names: "Hasan Sabbir"
+    given-names: "Syed Azmul"
+    affiliation: "Jashore University of Science and Technology"
+preferred-citation:
+  type: article
+  title: "TITLE OF PAPER — TO BE UPDATED ON ACCEPTANCE"
+  authors:
+    - family-names: "Hasan Sabbir"
+      given-names: "Syed Azmul"
+  year: 2026
+  journal: "TO BE UPDATED ON ACCEPTANCE"
